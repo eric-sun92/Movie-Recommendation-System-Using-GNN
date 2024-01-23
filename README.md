@@ -1,5 +1,7 @@
 # CPSC-483-Final-Project
 
+Read NeurIPS_2023 (1).pdf in Github Repo for project report
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
